@@ -17,5 +17,6 @@ We do not learn to program in the era of artificial intelligence to outpace mach
 
 
 ## References
-Ihde, D. (1990). Technology and the lifeworld: From garden to earth. Indiana University Press.
+Ihde, D. (1990). Technology and the lifeworld: From garden to earth. Indiana University Press.  
+
 Nees, G. (1969). Generative Computergraphik. Siemens-Aktiengesellschaft.
